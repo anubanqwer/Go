@@ -50,4 +50,5 @@ func TestFizzBuzzGiven15(t *testing.T) {
 	}
 }
 
-//go test
+//go test -v
+//Run specific test case -> go test -run TestFizzBuzzGiven15
